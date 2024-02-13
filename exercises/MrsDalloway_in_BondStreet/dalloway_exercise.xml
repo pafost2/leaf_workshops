@@ -60,7 +60,7 @@
             <pb n="20" facs="https://raw.githubusercontent.com/LEAF-VRE/leaf_workshops/main/exercises/MrsDalloway_in_BondStreet/dalloway_images/dalloway_01.jpg"/>
 
             <head>MRS DALLOWAY IN BOND STREET</head>
-            <byline>BY VIRGINIA WOOLF</byline>
+            <byline>BY <persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909" type="real">VIRGINIA WOOLF</persName></byline>
 
 
             <p>Mrs <persName key="Mrs. Dalloway" ref="http://www.wikidata.org/entity/Q111680677" cert="medium" type="fictional">Dalloway</persName> said she would buy the gloves herself.</p>
@@ -71,7 +71,7 @@
             <p>No doubt they were not all bound on errands of happiness. There is much more to be
                said about us than that we walk the streets of Westminster. Big Ben too is nothing
                but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
-               Only for Mrs Dalloway the moment was complete; for <persName>Mrs Dalloway</persName> June was fresh. A
+               Only for <persName key="Mrs Dalloway" ref="http://www.wikidata.org/entity/Q752584" cert="high">Mrs Dalloway</persName> the moment was complete; for <persName>Mrs Dalloway</persName> June was fresh. A
                happy childhood—and it was not to his daughters only that Justin Parry had seemed a
                fine fellow (weak of course on the Bench); flowers at evening, smoke rising; the caw
                of rooks falling from ever so high, down down through the October air—there is
